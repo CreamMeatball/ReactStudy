@@ -29,7 +29,7 @@ function InputSample() {
     <div>
       <input
         name="name"
-        placeholder="이름"
+        placeholder="성함"
         onChange={onChange}
         value={name}
         ref={nameInput}
